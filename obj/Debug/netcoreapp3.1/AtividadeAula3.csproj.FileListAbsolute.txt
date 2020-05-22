@@ -1,0 +1,13 @@
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\bin\Debug\netcoreapp3.1\AtividadeAula3.exe
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\bin\Debug\netcoreapp3.1\AtividadeAula3.deps.json
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\bin\Debug\netcoreapp3.1\AtividadeAula3.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\bin\Debug\netcoreapp3.1\AtividadeAula3.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\bin\Debug\netcoreapp3.1\AtividadeAula3.dll
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\bin\Debug\netcoreapp3.1\AtividadeAula3.pdb
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.dll
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.pdb
+C:\Users\mtgat\Documents\Projetos\AtividadeAula3\obj\Debug\netcoreapp3.1\AtividadeAula3.genruntimeconfig.cache
